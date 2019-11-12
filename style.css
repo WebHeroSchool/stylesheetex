@@ -1,0 +1,29 @@
+body {
+	font-family: Verdana;
+	background-image: url(https://skinali-msk.ru/assets/cache/images/kat_all/3_universal_vector_print_per/1275x-u-vect-print-108.96a.jpg);
+}
+.title {
+	text-align: left;
+	background: #fcf;
+	color: maroon;
+	margin-left: 30%;
+	border-left: 2px solid maroon;
+	padding-left: 10px;
+}
+
+.origin {
+	text-align: justify;
+	font-size: 20px;
+	font-style: italic;
+}
+
+h3 {
+	background-color: pink;
+	font-size: 25px;
+	font-family: Helvetica;
+}
+
+h2 {
+	background-color: pink;
+	font-size: 15px;
+}
