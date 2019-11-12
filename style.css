@@ -1,4 +1,5 @@
 body {
+	font-family: Verdana;
 	background-image: url(https://skinali-msk.ru/assets/cache/images/kat_all/3_universal_vector_print_per/1275x-u-vect-print-108.96a.jpg);
 }
 .title {
@@ -19,6 +20,7 @@ body {
 h3 {
 	background-color: pink;
 	font-size: 25px;
+	font-family: Helvetica;
 }
 
 h2 {
